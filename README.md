@@ -1,1 +1,2 @@
 # wix-template
+# wix-template
